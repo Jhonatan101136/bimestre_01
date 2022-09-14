@@ -21,6 +21,9 @@ function App() {
       <header className='genero'>
      <p> Gênero: Arte em forma de SERTANEJO</p>
       </header>
+      <header className='ingressos'>
+     <p> Ingressos</p>
+      </header>    
     </div>
     
   );
